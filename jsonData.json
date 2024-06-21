@@ -1,0 +1,12 @@
+{
+    "car": [
+        {
+            "Brand": "Honda",
+            "Modelname": "City",
+            "FuelType": "Petrol",
+            "Colour": "Black",
+            "Type": "Automatic"
+
+        }
+    ]
+}
