@@ -1,12 +1,8 @@
 {
     "car": [
         {
-            "Brand": "Honda",
-            "Modelname": "City",
-            "FuelType": "Petrol",
-            "Colour": "Black",
-            "Type": "Automatic"
-
+            "colourID": "2",
+            "rimID": "1"
         }
     ]
 }
