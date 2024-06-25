@@ -1,8 +1,8 @@
 {
     "car": [
         {
-            "colourID": "1",
-            "rimID": "1"
+            "ColorID": "1",
+            "RimID": "1"
         }
     ]
 }
